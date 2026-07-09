@@ -1,0 +1,6 @@
+{
+  "name": "박지수 포트폴리오",
+  "description": "계획적이고 효율적인 경영 기획 사무원을 꿈꾸는 고등학교 2학년 박지수의 포트폴리오 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
